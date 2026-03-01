@@ -1,2 +1,2 @@
 [tasks."update"]
-run = ["git add .", "git commit -m '‎'"]
+run = ["git add .", "git commit -m '‎'", "git push"]
