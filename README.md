@@ -14,9 +14,7 @@ Available for contact here or through the social platforms below.
 
 ## My works
 
-<video controls width="600">
-  <source src="https://raw.githubusercontent.com/cayasde/portfolio/main/assets/ldtk_map_render.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/31559355-9e3c-435b-ab61-a74519cacb3b
 
 > Simple [LDTK](https://ldtk.io/) map render for Roblox
 
