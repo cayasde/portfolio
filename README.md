@@ -12,7 +12,11 @@ Available for contact here or through the social platforms below.
 - [Twitter](https://x.com/cayasde)
 - cayasdelindo@gmail.com
 
+<div align="center">
+
 ## My works
+
+<div>
 
 <p align="center"> Roblox development projects and experiments I built over time. </p>
 
