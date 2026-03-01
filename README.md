@@ -4,7 +4,7 @@ Roblox scripter with over 3 years of experience. Based in Brazil, I began coding
 
 ### Contact me
 
-I am open for small commission work. My timezone is UTC-4. If possible, include your timezone when messaging me to help align response times.
+I am open for small commission work. My timezone is [UTC−4](https://www.timeanddate.com/worldclock/brazil/porto-velho) (Porto Velho, Brazil). If possible, include your timezone when messaging me to help align response times.
 
 Available for contact here or through the social platforms below.
 
