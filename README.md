@@ -10,7 +10,7 @@ Available for contact here or through the social platforms below.
 
 - [Discord](https://discord.com/users/1292366971395899415)
 - [Twitter](https://x.com/cayasde)
-- cayasde@gmail.com
+- cayasdelindo@gmail.com
 
 ## My works
 
