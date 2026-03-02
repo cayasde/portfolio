@@ -46,3 +46,4 @@ Available for contact here or through the social platforms below.
 | [Conch](https://github.com/alicesaidhi/conch)           | Console library that makes it easy to register and run developer commands                                                                                  |
 | [Promise](https://github.com/evaera/roblox-lua-promise) | Promise/A+-style async primitive for Roblox Luau that makes concurrent async work and error handling predictable and composable without unexpected yields. |
 | [Rokit](https://github.com/rojo-rbx/rokit)              | Toolchain manager that makes installing and managing Roblox dev tools fast and simple.                                                                     |
+| [Wally](https://github.com/UpliftGames/wally)           | Package manager for Roblox projects that makes installing, updating and resolving shared code dependencies simple.                                         |
