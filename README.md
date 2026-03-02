@@ -12,6 +12,8 @@ I accept Robux (DevEx tax included) and PIX. I don’t sign formal contracts due
 
 I am open for small commission work. My timezone is [UTC−4](https://www.timeanddate.com/worldclock/brazil/porto-velho) (Porto Velho, Brazil). If possible, include your timezone when messaging me to help align response times.
 
+When reaching out, provide complete details about your commission (scope, features, deadline, budget). Clear information avoids misunderstandings and speeds up the process.
+
 Available for contact here or through the social platforms below.
 
 - [Discord](https://discord.com/users/1292366971395899415)
