@@ -45,3 +45,4 @@ Available for contact here or through the social platforms below.
 | [UiLabs](https://github.com/PepeElToro41/ui-labs)       | Storybook-style Roblox plugin that lets you preview and interact with UI component stories in real time without running the game.                          |
 | [Conch](https://github.com/alicesaidhi/conch)           | Console library that makes it easy to register and run developer commands                                                                                  |
 | [Promise](https://github.com/evaera/roblox-lua-promise) | Promise/A+-style async primitive for Roblox Luau that makes concurrent async work and error handling predictable and composable without unexpected yields. |
+| [Rokit](https://github.com/rojo-rbx/rokit)              | Toolchain manager that makes installing and managing Roblox dev tools fast and simple.                                                                     |
