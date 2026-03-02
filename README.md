@@ -27,7 +27,7 @@ Available for contact here or through the social platforms below.
 
 ## Tech stack
 
-| Tech                                              | Description                                                                       |
+| Name                                              | Description                                                                       |
 | ------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Rojo](https://rojo.space/)                       | External workflow tool for developing and syncing Roblox projects outside Studio. |
 | [Mise](https://mise.jdx.dev/)                     | Tool for managing runtime versions, environment variables and tasks.              |
