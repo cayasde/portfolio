@@ -27,8 +27,9 @@ Available for contact here or through the social platforms below.
 
 ## Tech stack
 
-| Tech                                   | Description                                                                       |
-| -------------------------------------- | --------------------------------------------------------------------------------- |
-| [Rojo](https://rojo.space/)            | External workflow tool for developing and syncing Roblox projects outside Studio. |
-| [Mise](https://mise.jdx.dev/)          | Tool for managing runtime versions, environment variables and tasks.              |
-| [Vide](https://centau.github.io/vide/) | Reactive and declarative UI library for Roblox.                                   |
+| Tech                                              | Description                                                                       |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Rojo](https://rojo.space/)                       | External workflow tool for developing and syncing Roblox projects outside Studio. |
+| [Mise](https://mise.jdx.dev/)                     | Tool for managing runtime versions, environment variables and tasks.              |
+| [Vide](https://centau.github.io/vide/)            | Reactive and declarative UI library for Roblox.                                   |
+| [StyLua](https://github.com/JohnnyMorganz/StyLua) | Formatter for Lua/Luau code that enforces consistent styling and layout.          |
