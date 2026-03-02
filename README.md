@@ -35,3 +35,4 @@ Available for contact here or through the social platforms below.
 | [StyLua](https://github.com/JohnnyMorganz/StyLua)  | Formatter for Lua/Luau code that enforces consistent styling and layout.            |
 | [Pesde](https://github.com/pesde-pkg/pesde)        | Package manager for resolving and installing Luau dependencies.                     |
 | [Asphalt](https://github.com/jackTabsCode/asphalt) | Upload assets to Roblox and generate code references (images, sounds, models, etc.) |
+| [Git](https://git-scm.com/)                        | Distributed version control system for tracking and managing source code changes.   |
