@@ -2,6 +2,14 @@
 
 Roblox scripter with over 3 years of experience. Based in Brazil, I began coding in 2023, starting with Roblox development. Later I expanded into JavaScript and TypeScript, building websites, Discord bots, and Roblox systems.
 
+### Payments
+
+I accept Robux (DevEx adjusted) and PIX.
+
+I don’t sign formal contracts due to being underage, but I work with clear terms and professional standards.
+
+> Revenue share is considered only for active projects with proven potential or strong portfolio relevance. Reach out if it qualifies.
+
 ### Contact me
 
 I am open for small commission work. My timezone is [UTC−4](https://www.timeanddate.com/worldclock/brazil/porto-velho) (Porto Velho, Brazil). If possible, include your timezone when messaging me to help align response times.
