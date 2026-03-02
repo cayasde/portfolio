@@ -27,10 +27,11 @@ Available for contact here or through the social platforms below.
 
 ## Tech stack
 
-| Name                                              | Description                                                                       |
-| ------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Rojo](https://rojo.space/)                       | External workflow tool for developing and syncing Roblox projects outside Studio. |
-| [Mise](https://mise.jdx.dev/)                     | Tool for managing runtime versions, environment variables and tasks.              |
-| [Vide](https://centau.github.io/vide/)            | Reactive and declarative UI library for Roblox.                                   |
-| [StyLua](https://github.com/JohnnyMorganz/StyLua) | Formatter for Lua/Luau code that enforces consistent styling and layout.          |
-| [Pesde](https://github.com/pesde-pkg/pesde)       | Package manager for resolving and installing Luau dependencies.                   |
+| Name                                               | Description                                                                         |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Rojo](https://rojo.space/)                        | External workflow tool for developing and syncing Roblox projects outside Studio.   |
+| [Mise](https://mise.jdx.dev/)                      | Tool for managing runtime versions, environment variables and tasks.                |
+| [Vide](https://centau.github.io/vide/)             | Reactive and declarative UI library for Roblox.                                     |
+| [StyLua](https://github.com/JohnnyMorganz/StyLua)  | Formatter for Lua/Luau code that enforces consistent styling and layout.            |
+| [Pesde](https://github.com/pesde-pkg/pesde)        | Package manager for resolving and installing Luau dependencies.                     |
+| [Asphalt](https://github.com/jackTabsCode/asphalt) | Upload assets to Roblox and generate code references (images, sounds, models, etc.) |
