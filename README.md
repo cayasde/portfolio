@@ -27,14 +27,15 @@ Available for contact here or through the social platforms below.
 
 ## Tech stack
 
-| Name                                               | Description                                                                                          |
-| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Rojo](https://rojo.space/)                        | External workflow tool for developing and syncing Roblox projects outside Studio.                    |
-| [Mise](https://mise.jdx.dev/)                      | Tool for managing runtime versions, environment variables and tasks.                                 |
-| [Vide](https://centau.github.io/vide/)             | Reactive and declarative UI library for Roblox.                                                      |
-| [StyLua](https://github.com/JohnnyMorganz/StyLua)  | Formatter for Lua/Luau code that enforces consistent styling and layout.                             |
-| [Pesde](https://github.com/pesde-pkg/pesde)        | Package manager for resolving and installing Luau dependencies.                                      |
-| [Asphalt](https://github.com/jackTabsCode/asphalt) | Upload assets to Roblox and generate code references (images, sounds, models, etc.)                  |
-| [Git](https://git-scm.com/)                        | Distributed version control system for tracking and managing source code changes.                    |
-| [Github](https://github.com/)                      | Web-based Git hosting platform for collaboration, code review, and CI workflows.                     |
-| [Blink](https://github.com/1Axen/blink)            | IDL compiler in Luau that generates efficient Roblox buffer-networking code from schema definitions. |
+| Name                                               | Description                                                                                                                       |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Rojo](https://rojo.space/)                        | External workflow tool for developing and syncing Roblox projects outside Studio.                                                 |
+| [Mise](https://mise.jdx.dev/)                      | Tool for managing runtime versions, environment variables and tasks.                                                              |
+| [Vide](https://centau.github.io/vide/)             | Reactive and declarative UI library for Roblox.                                                                                   |
+| [StyLua](https://github.com/JohnnyMorganz/StyLua)  | Formatter for Lua/Luau code that enforces consistent styling and layout.                                                          |
+| [Pesde](https://github.com/pesde-pkg/pesde)        | Package manager for resolving and installing Luau dependencies.                                                                   |
+| [Asphalt](https://github.com/jackTabsCode/asphalt) | Upload assets to Roblox and generate code references (images, sounds, models, etc.)                                               |
+| [Git](https://git-scm.com/)                        | Distributed version control system for tracking and managing source code changes.                                                 |
+| [Github](https://github.com/)                      | Web-based Git hosting platform for collaboration, code review, and CI workflows.                                                  |
+| [Blink](https://github.com/1Axen/blink)            | IDL compiler in Luau that generates efficient Roblox buffer-networking code from schema definitions.                              |
+| [Lune](https://github.com/lune-org/lune)           | Standalone Luau runtime that enables practical scripting with built-in async filesystem, networking, and CLI APIs outside Roblox. |
