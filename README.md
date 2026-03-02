@@ -43,3 +43,4 @@ Available for contact here or through the social platforms below.
 | [Mantle](https://github.com/blake-mealey/mantle)   | Deployment tool that makes it practical to define and deploy Roblox experiences through CI/CD workflows.                               |
 | [Re-test](https://github.com/ernisto/re-test)      | CLI utility for running automated tests and validating code behavior efficiently with minimal config.                                  |
 | [UiLabs](https://github.com/PepeElToro41/ui-labs)  | Storybook-style Roblox plugin that lets you preview and interact with UI component stories in real time without running the game.      |
+| [Conch](https://github.com/alicesaidhi/conch)      | Console library that makes it easy to register and run developer commands                                                              |
