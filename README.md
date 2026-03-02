@@ -40,3 +40,4 @@ Available for contact here or through the social platforms below.
 | [Blink](https://github.com/1Axen/blink)            | IDL compiler in Luau that generates efficient Roblox buffer-networking code from schema definitions.                                   |
 | [Lune](https://github.com/lune-org/lune)           | Standalone Luau runtime that enables practical scripting with built-in async filesystem, networking, and CLI APIs outside Roblox.      |
 | [Darklua](https://github.com/seaofvoices/darklua)  | CLI tool that transforms, minifies, bundles and rewrites Lua/Luau source with configurable code rules for practical script processing. |
+| [Mantle](https://github.com/blake-mealey/mantle)   | Deployment tool that makes it practical to define and deploy Roblox experiences through CI/CD workflows.                               |
