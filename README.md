@@ -36,3 +36,4 @@ Available for contact here or through the social platforms below.
 | [Pesde](https://github.com/pesde-pkg/pesde)        | Package manager for resolving and installing Luau dependencies.                     |
 | [Asphalt](https://github.com/jackTabsCode/asphalt) | Upload assets to Roblox and generate code references (images, sounds, models, etc.) |
 | [Git](https://git-scm.com/)                        | Distributed version control system for tracking and managing source code changes.   |
+| [Github](https://github.com/)                      | Web-based Git hosting platform for collaboration, code review, and CI workflows.    |
