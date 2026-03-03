@@ -48,10 +48,10 @@ I work on weekdays, Monday through Friday. My main availability is in the mornin
 
 On weekends and holidays, I may work only in exceptional cases, such as critical bugs, security issues, or urgent hotfixes.
 
+> Please keep in mind that my timezone may differ from yours.
+
 `❓` **How long does it take?**
 At the moment, I do not work with fixed deadlines. However, I commit to completing the service as quickly as possible, while keeping the buyer consistently updated on progress and any changes made.
-
-> Please keep in mind that my timezone may differ from yours.
 
 </details>
 
