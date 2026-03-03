@@ -36,6 +36,13 @@ I focus on small, incremental releases rather than large monolithic deliveries. 
 **How much does it cost?**  
 I don’t use a fixed rate. Pricing is calculated based on your budget, the scope of the task, the deadline, and other relevant factors.
 
+**What are your working hours?**  
+I work on weekdays, Monday through Friday. My main availability is in the morning (7:00 AM to around 11:00 AM), and occasionally in the evening if I’m available.
+
+On weekends and holidays, I may work only in exceptional cases, such as critical bugs, security issues, or urgent hotfixes.
+
+> Please keep in mind that my timezone may differ from yours.
+
 </details>
 
 <div align="center">
