@@ -33,7 +33,7 @@ I focus on small, incremental releases rather than large monolithic deliveries. 
 <details>
 <summary><b>Frequently Asked Questions</b></summary>
 
-**How much does it cost?**
+**How much does it cost?**  
 I don’t use a fixed rate. Pricing is calculated based on your budget, the scope of the task, the deadline, and other relevant factors.
 
 </details>
