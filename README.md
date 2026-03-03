@@ -50,7 +50,7 @@ On weekends and holidays, I may work only in exceptional cases, such as critical
 
 > Please keep in mind that my timezone may differ from yours.
 
-`❓` **How long does it take?**
+`❓` **How long does it take?**  
 At the moment, I do not work with fixed deadlines. However, I commit to completing the service as quickly as possible, while keeping the buyer consistently updated on progress and any changes made.
 
 </details>
