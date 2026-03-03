@@ -6,6 +6,8 @@ I’m 17 years old and a Roblox scripter with over 3 years of experience. Based 
 
 I accept Robux (DevEx tax included) and PIX. I don’t sign formal contracts due to being underage, but I work with clear terms and professional standards.
 
+A 50% or 100% upfront payment is required before work begins. This ensures commitment and prevents cancellations or payment issues.
+
 > Revenue share is considered only for active projects with proven potential or strong portfolio relevance.
 
 ### Contact me
