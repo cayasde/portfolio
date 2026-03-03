@@ -20,6 +20,12 @@ Available for contact here or through the social platforms below.
 - [Twitter](https://x.com/cayasde)
 - cayasdelindo@gmail.com
 
+### Work preferences
+
+I prefer projects that use Git or Rojo workflows. I work best with tasks that are clearly scoped and well defined, ideally structured as MVPs or small, independent features.
+
+I focus on small, incremental releases rather than large monolithic deliveries. Communication should be direct and precise regarding requirements, expectations, and deadlines.
+
 <div align="center">
 
 ## My works
