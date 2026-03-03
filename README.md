@@ -6,7 +6,7 @@ I’m 17 years old and a Roblox scripter with over 3 years of experience. Based 
 
 I accept Robux (DevEx tax included) and PIX. I don’t sign formal contracts due to being underage, but I work with clear terms and professional standards.
 
-> Revenue share is considered only for active projects with proven potential or strong portfolio relevance. Reach out if it qualifies.
+> Revenue share is considered only for active projects with proven potential or strong portfolio relevance.
 
 ### Contact me
 
