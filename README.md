@@ -8,6 +8,8 @@ I accept Robux (DevEx tax included) and PIX. I don’t sign formal contracts due
 
 A 50% or 100% upfront payment is required before work begins. This ensures commitment and prevents cancellations or payment issues.
 
+Payments are non-refundable once work has started.
+
 > Revenue share is considered only for active projects with proven potential or strong portfolio relevance.
 
 ### Contact me
