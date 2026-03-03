@@ -29,7 +29,7 @@ Strict-typed Luau codebases.
 I focus on small, incremental releases rather than large monolithic deliveries. Communication should be direct and precise regarding requirements, expectations, and deadlines.
 
 <details>
-<summary><span style="font-size: 1.17em; font-weight: bold;">Frequently Asked Questions</span></summary>
+<summary><b>Frequently Asked Questions</b></summary>
 
 **How much does it cost?**
 I don’t use a fixed rate. Pricing is calculated based on your budget, the scope of the task, the deadline, and other relevant factors.
