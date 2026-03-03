@@ -28,6 +28,8 @@ Strict-typed Luau codebases.
 
 I focus on small, incremental releases rather than large monolithic deliveries. Communication should be direct and precise regarding requirements, expectations, and deadlines.
 
+<br>
+
 <details>
 <summary><b>Frequently Asked Questions</b></summary>
 
