@@ -14,6 +14,7 @@ I am open for small commission work. My timezone is [UTC−4](https://www.timean
 
 When reaching out, provide complete details about your commission (scope, features, deadline, budget). Clear information avoids misunderstandings and speeds up the process.
 
+**Contact me only if you are genuinely interested in moving forward.**
 Available for contact here or through the social platforms below.
 
 - [Discord](https://discord.com/users/1292366971395899415)
