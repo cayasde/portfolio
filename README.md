@@ -16,6 +16,8 @@ I am open for small commission work. My timezone is [UTC−4](https://www.timean
 
 When reaching out, provide complete details about your commission (scope, features, deadline, budget). Clear information avoids misunderstandings and speeds up the process.
 
+Trust is essential for a successful collaboration. If you are not comfortable moving forward, you are free to seek another developer.
+
 **Contact me only if you are genuinely interested in moving forward.**  
 Available for contact here or through the social platforms below.
 
