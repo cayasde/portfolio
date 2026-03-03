@@ -1,6 +1,6 @@
 # Hi, I'am cayasde.
 
-I’m 17 years old and a Roblox scripter with over 3 years of experience. Based in Brazil, I started coding in 2023 with Roblox development, then expanded into JavaScript and TypeScript, building websites, Discord bots, and scalable Roblox systems.
+I’m 17 years old and a Fullstack Roblox scripter with over 3 years of experience. Based in Brazil, I started coding in 2023 with Roblox development, then expanded into JavaScript and TypeScript, building websites, Discord bots, and scalable Roblox systems.
 
 ### Payments
 
