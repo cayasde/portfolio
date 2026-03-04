@@ -70,7 +70,7 @@ At the moment, I do not work with fixed deadlines. However, I commit to completi
 
 ## Tech stack
 
-| Name                                                            | Description                                                                  |
+| Tools                                                           | Purpose                                                                      |
 | --------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Rojo](https://rojo.space/)                                     | Sync Roblox projects with the filesystem for external development workflows. |
 | [Mise](https://mise.jdx.dev/)                                   | Manage tool versions, env vars, and project tasks.                           |
