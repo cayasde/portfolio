@@ -66,6 +66,10 @@ At the moment, I do not work with fixed deadlines. However, I commit to completi
 
 [https://github.com/user-attachments/assets/31559355-9e3c-435b-ab61-a74519cacb3b](https://github.com/user-attachments/assets/31559355-9e3c-435b-ab61-a74519cacb3b)
 
+### *.io style game (like [slither.io](http://slither.com/io)) inspired by [evowars.io](https://evowars.io/?v=2.18.14)
+
+https://github.com/user-attachments/assets/44061af3-b8d4-4c71-b775-7fd5d5b55817
+
 </div>
 
 ## Tech stack
