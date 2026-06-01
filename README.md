@@ -53,22 +53,30 @@ At the moment, I do not work with fixed deadlines. However, I commit to completi
 
 </details>
 
-<div align="center">
-
 ## My works
-
-<p align="center"> Roblox development projects and experiments I built over time. </p>
 <br>
 
 ### Tilemap renderer for Roblox based on [LDTK](https://ldtk.io/) map exports
 
 [https://github.com/user-attachments/assets/31559355-9e3c-435b-ab61-a74519cacb3b](https://github.com/user-attachments/assets/31559355-9e3c-435b-ab61-a74519cacb3b)
+- Custom LDTK asset pipeline
+- Automatic tilemap generation
+- External tool integration
+- Data-driven level workflow
+- Live editor-to-engine updates
+- Modular map processing system
+- Scalable content production workflow
 
 ### *.io style game (like [slither.io](http://slither.com/io)) inspired by [evowars.io](https://evowars.io/?v=2.18.14)
 
 https://github.com/user-attachments/assets/44061af3-b8d4-4c71-b775-7fd5d5b55817
 
-</div>
+- Server-authoritative combat pipeline
+- Pooled XP collectibles with controlled distribution
+- Dynamic character scaling and progression
+- Procedural weapon assembly and hitbox generation
+- Selective combat replication using Blink
+- Adaptive AI with contextual decision making
 
 ## Tech stack
 
