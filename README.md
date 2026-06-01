@@ -18,7 +18,6 @@ When reaching out, provide complete details about your commission (scope, featur
 
 Trust is essential for a successful collaboration. If you are not comfortable moving forward, you are free to seek another developer.
 
-**Contact me only if you are genuinely interested in moving forward.**  
 Available for contact here or through the social platforms below.
 
 - [Discord](https://discord.com/users/1292366971395899415)
